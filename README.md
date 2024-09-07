@@ -28,6 +28,7 @@ Install the required packages using pip:
 
 ```bash
 pip install transformers datasets peft bitsandbytes matplotlib seaborn
+```
 
 ## Dataset
 
@@ -47,6 +48,7 @@ LoRA is chosen for its ability to fine-tune large language models with fewer par
 ├── LightweightFineTuning.ipynb   # Jupyter Notebook with the fine-tuning code and analysis
 ├── README.md                     # Project README file
 └── results/                      # Directory to save fine-tuned model and logs
+```
 
 ## How to Run the Project
 
