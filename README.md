@@ -55,6 +55,7 @@ LoRA is chosen for its ability to fine-tune large language models with fewer par
 ```bash
 git clone https://github.com/yourusername/lightweight-fine-tuning.git
 cd lightweight-fine-tuning
+```
 
 ### Open the Jupyter Notebook:
 
@@ -62,6 +63,7 @@ Use Jupyter Notebook or Jupyter Lab to open `LightweightFineTuning.ipynb`:
 
 ```bash
 jupyter notebook LightweightFineTuning.ipynb
+```
 
 ### Follow the Steps in the Notebook:
 
